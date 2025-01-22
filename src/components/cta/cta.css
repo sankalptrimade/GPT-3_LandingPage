@@ -66,14 +66,16 @@
 }
 
 @media screen and (max-width: 650px) {
-    .gpt3__cta{
+    .gpt3__cta {
         margin: 4rem 2rem;
     }
-    .gpt3__cta-content{
+
+    .gpt3__cta-content {
         font-size: 18px;
         line-height: 32px;
     }
-    .gpt3__cta-btn btn{
+
+    .gpt3__cta-btn btn {
         font-size: 14px;
         line-height: 28px
     }
