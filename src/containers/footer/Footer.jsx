@@ -3,7 +3,8 @@ import "./footer.css";
 
 const footer = () => {
   return (
-    <div>
+    <div className='gpt3__footer'>
+      <div className="gpt3__footer-"></div>
       Footer
     </div>
   )
